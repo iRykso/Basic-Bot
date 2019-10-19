@@ -1,0 +1,10 @@
+{
+  "token" : "TOKEN AQUI",
+  "prefix" : "PREFIXO AQUI",
+  "logsChannel" : "punição",
+
+  "playerSettings": {
+    "googleApiToken": "TOKEN DA API DO YOUTUBE AQUI",
+    "baseVolume": "1"
+ }
+}
